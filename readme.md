@@ -2,6 +2,10 @@
 ```
 python -m venv my-env
 source my-env/bin/activate
+
+# requirements update
+pip freeze > requirements.txt
+
 ```
 
 ```
